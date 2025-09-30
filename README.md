@@ -1,16 +1,14 @@
-## Hi there 👋
+#👋 Hi, I’m Jack
+#🎓 Data Student | 📊 Aspiring Data Analyst | ☁️ Exploring Cloud & Azure
+#I’m passionate about turning raw data into meaningful insights. Currently building projects using Excel, SQL, Tableau, Power BI, and Azure, while learning Python for data analysis and automation.
 
-<!--
-**JackHunter000/JackHunter000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#🔧 Skills & Tools
+#Data Analysis: Excel, SQL
+#Data Visualization: Tableau, Power BI
+#Cloud & Databases: Microsoft Azure, SQL Server
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#🚀 A few projects I’ve been working on:
+#🎵 Spotify Data Dashboard (Tableau)
+#📊 Sales Dashboard in Excel & Power BI (coming soon)
+#💾 SQL Practice Queries – Joins, Aggregations, Subqueries
+#☁️ Azure Project – Deploying a database to the cloud (learning in progress)
